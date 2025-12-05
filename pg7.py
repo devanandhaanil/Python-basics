@@ -1,5 +1,3 @@
-#x=input("enter the number")
-#print(x[::-1])
 #reverse number
 x=436
 r=0
