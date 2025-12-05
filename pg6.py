@@ -1,3 +1,5 @@
+#learning triple quotes
+
 print("""hello
          my self deva""")
 
