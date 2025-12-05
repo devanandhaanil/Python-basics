@@ -1,3 +1,4 @@
+#string palindrome
 x=input("enter the string")
 y=(x[::-1])
 if x==y:
